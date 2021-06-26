@@ -1,0 +1,13 @@
+- [ ] Responsividade
+- [ ] Theme dark/light
+- [ ] PWA
+- [ ] Drag and Drop
+- [ ] Tests end2end and unit
+- [ ] Offline
+- [ ] react-modal
+- [ ] Commit pattern
+- [ ] Prettier
+- [ ] CI/CD
+- [ ] Documentation
+- [ ] Sons de notificações
+- [ ] Desfazer marcação
